@@ -113,13 +113,13 @@ a:visited {
   flex:1.1;
   height:100%;
   /*background-color:#716E66;*/
-  background-image: url("../images/NNPic.png");
+  background-image: url("../images/MilkyWayShot.png");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 
-  color:BLACK; /*change color back to white*/
+  color:WHITE; 
  }
 
  .left-half > h1 {
