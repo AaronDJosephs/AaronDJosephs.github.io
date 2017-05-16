@@ -60,11 +60,11 @@ a:visited {
  /*v categories*/
  .csc { }
  .csc-link:hover {
-  color:#7F001B;
+  color:#E60000;
   cursor:pointer;
  }
  .csc-active {
-  color:#7F001B;
+  color:#E60000;
  }
  .contains-csc { }
 
